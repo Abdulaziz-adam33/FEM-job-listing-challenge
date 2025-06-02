@@ -17,12 +17,14 @@ li, ul{
 }
 
 body{
+    max-width: 320px;
    font-family: "League Spartan", sans-serif;
    font-size: 15px;
+    
 }
 
 .job_container{
-    width: 320px;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
