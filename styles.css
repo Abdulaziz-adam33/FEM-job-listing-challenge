@@ -89,7 +89,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100%;
-  width: 30px;
+/*   width: 30px; */
   background-color: var(--DesaturatedDarkCyan);
   transition: all 0.3s ease;
   cursor: pointer;
@@ -308,9 +308,9 @@ body {
     padding: 0.3em 0.4em;
   }
 
-  .filter i {
+/*   .filter i {
     width: 25px;
-  }
+  } */
 
   .clear_filters {
     font-size: 0.8rem;
