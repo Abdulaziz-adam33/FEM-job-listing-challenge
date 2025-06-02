@@ -57,7 +57,7 @@ const fetchData = function(){
         filterText.innerText = item
 
         const deleteBtn = document.createElement('i')
-        deleteBtn.innerHTML = `<img src="./images/icon-remove.svg" alt="" srcset="">`
+        deleteBtn.innerHTML = `<img src="./image/icon-remove.svg" alt="" srcset="">`
         
         filters.appendChild(filter)
         filter.appendChild(filterText)
